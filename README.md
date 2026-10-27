@@ -34,6 +34,7 @@ public:
     string interest = "Web Development";
     string mindset = "Learn. Build. Improve.";
 };
+```
 
 ## Tech Stack
 
@@ -47,8 +48,11 @@ public:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lazycelestial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=lazycelestial&hide_border=true&border_radius=8&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lazycelestial&show=contributions&hide=stars,commits,prs,issues,reviews,discussions,rank&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Total contributions"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=lazycelestial&hide_border=true&border_radius=8&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&mode=weekly" alt="Current and longest streak"/>
 </p>
 
 ---
@@ -58,7 +62,6 @@ public:
   <br/><br/>
   <code>while (alive) { learn(); build(); repeat(); }</code>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:000000&height=100&section=footer" width="100%" alt="Footer"/>
 </p>
