@@ -1,11 +1,11 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:38bdf8&height=180&section=header&text=lazycelestial.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="lazycelestial header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:38bdf8&height=180&section=header&text=lazycelestial.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="Rohit Kumar header"/>
 </p>
 
 <p align="center">
   <a href="https://lazycelestial.github.io/my-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=lazycelestial.;cse+student.;cpp+%26+dsa+learner.;developer+in+progress." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=lazycelestial.;cse+student.;cpp+%26+dsa+learner.;developer." alt="Typing SVG"/>
   </a>
 </p>
 
@@ -42,7 +42,7 @@ public:
 <br/>
 
 <!-- ===== TECH STACK ===== -->
-## 🔧 &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql&theme=dark" alt="Languages"/>
@@ -55,7 +55,7 @@ public:
 <br/>
 
 <!-- ===== PROJECTS ===== -->
-## 🚀 &nbsp;Featured Projects
+## &nbsp;Featured Projects
 
 <p align="center">
   <a href="https://github.com/lazycelestial/my-portfolio">
@@ -76,7 +76,7 @@ public:
 <br/>
 
 <!-- ===== STATS ===== -->
-## 📊 &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <p align="center">
   <img width="72%" src="https://github-readme-streak-stats-eight.vercel.app?user=lazycelestial&hide_border=true&border_radius=8&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak"/>
@@ -89,7 +89,7 @@ public:
 <br/>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 &nbsp;Contribution Graph
+## &nbsp;Contribution Graph
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lazycelestial&hide_border=true&radius=8&bg_color=0d1117&color=c9d1d9&title_color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8" alt="GitHub activity graph"/>
@@ -98,7 +98,7 @@ public:
 <br/>
 
 <!-- ===== CONNECT ===== -->
-## 🌐 &nbsp;Find Me Online
+## &nbsp;Find Me Online
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/></a>
