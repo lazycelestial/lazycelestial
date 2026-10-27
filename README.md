@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:38bdf8&height=180&section=header&text=lazycelestial.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="Rohit Kumar header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:38bdf8&height=180&section=header&text=Rohit Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="Rohit Kumar header"/>
 </p>
 
 <p align="center">
