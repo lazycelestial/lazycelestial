@@ -1,111 +1,122 @@
-<!-- ✦ HEADER ✦ -->
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:38bdf8&height=180&section=header&text=lazycelestial.&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="lazycelestial header"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://lazycelestial.github.io/my-portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=lazycelestial.;cse+student.;cpp+%26+dsa+learner.;developer+in+progress." alt="Typing SVG"/>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1d4ed8,100:7c3aed&height=200&section=header&text=ROHIT%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Repeat&descAlignY=60&descSize=17" width="100%" alt="Rohit Kumar — Code, Create, Repeat"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;C%2B%2B+%26+DSA+Learner;Web+Developer+in+Progress;Turning+Ideas+Into+Projects" alt="Typing introduction"/>
-</a>
+<p align="center">
+  <a href="https://lazycelestial.github.io/my-portfolio/"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/></a>
+  <a href="https://github.com/lazycelestial"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=38bdf8" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=lazycelestial&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 <br/>
 
-<a href="https://lazycelestial.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/lazycelestial"><img src="https://img.shields.io/badge/GITHUB-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-</div>
-
----
-
-## `> whoami`
+<!-- ===== ABOUT ===== -->
+## &nbsp;whoami
 
 ```cpp
 class Developer {
 public:
     string name = "Rohit Kumar";
-    string role = "B.Tech CSE Student";
-    string focus = "C++ | DSA | Web Development";
+    string role = "B.Tech CSE student";
+    string focus = "C++ & DSA";
+    string building = "Web development";
     string mindset = "Learn. Build. Improve.";
-
-    void currentMission() {
-        cout << "Turning ideas into real projects!";
-    }
 };
 ```
 
-- 🔭 **Building:** Web projects and practical applications
-- 🌱 **Learning:** Data Structures & Algorithms with C++
-- 🧠 **Exploring:** Problem-solving, clean code, and software development
-- 🎯 **Goal:** Become a better developer through consistent practice
-- 🌐 **Portfolio:** [lazycelestial.github.io/my-portfolio](https://lazycelestial.github.io/my-portfolio/)
+- `> currently_learning` — Data Structures & Algorithms in C++
+- `> building` — Websites and practical coding projects
+- `> exploring` — Problem-solving, software development, and UI
+- `> goal` — Becoming a better developer, one project at a time
 
----
+<br/>
 
-## `> tech_stack`
+<!-- ===== TECH STACK ===== -->
+## 🔧 &nbsp;Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql&theme=dark" alt="Languages"/>
+</p>
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Tools"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql&theme=dark" alt="Programming languages"/>
+<br/>
 
-**Tools & Environment**
+<!-- ===== PROJECTS ===== -->
+## 🚀 &nbsp;Featured Projects
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Development tools"/>
+<p align="center">
+  <a href="https://github.com/lazycelestial/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lazycelestial&repo=my-portfolio&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Portfolio repository"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/lazycelestial">
+    <img src="https://img.shields.io/badge/🌦️_Weather_App-Explore_Repositories-0d1117?style=for-the-badge&logo=javascript&logoColor=38bdf8" alt="Weather app project"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <sub>More projects in progress. Stay tuned.</sub>
+</p>
 
-## `> featured_projects`
+<br/>
 
-<div align="center">
+<!-- ===== STATS ===== -->
+## 📊 &nbsp;GitHub Stats
 
-<a href="https://github.com/lazycelestial/my-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lazycelestial&repo=my-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio repository"/>
-</a>
+<p align="center">
+  <img width="72%" src="https://github-readme-streak-stats-eight.vercel.app?user=lazycelestial&hide_border=true&border_radius=8&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub contribution streak"/>
+</p>
 
-<a href="https://github.com/lazycelestial">
-<img src="https://img.shields.io/badge/🌦️_Weather_App-HTML_%7C_CSS_%7C_JavaScript-1d4ed8?style=for-the-badge" alt="Weather App project"/>
-</a>
+<p align="center">
+  <img width="72%" src="https://github-readme-stats.vercel.app/api?username=lazycelestial&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="GitHub statistics"/>
+</p>
 
-<a href="https://github.com/lazycelestial">
-<img src="https://img.shields.io/badge/🏠_MU_Hostels-Flask_%7C_Python-7c3aed?style=for-the-badge" alt="MU Hostels project"/>
-</a>
+<br/>
 
-</div>
+<!-- ===== ACTIVITY GRAPH ===== -->
+## 📈 &nbsp;Contribution Graph
 
-> More projects coming as I keep building and learning.
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=lazycelestial&hide_border=true&radius=8&bg_color=0d1117&color=c9d1d9&title_color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8" alt="GitHub activity graph"/>
+</p>
 
----
+<br/>
 
-## `> github_stats`
+<!-- ===== CONNECT ===== -->
+## 🌐 &nbsp;Find Me Online
 
-<div align="center">
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=38bdf8" alt="Instagram"/></a>
+  <a href="https://lazycelestial.github.io/my-portfolio/"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio"/></a>
+  <a href="https://github.com/lazycelestial"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/></a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lazycelestial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazycelestial&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <i>"somewhere between logic and imagination."</i>
+  <br/><br/>
+  <code>while (alive) { learn(); build(); repeat(); }</code>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=lazycelestial&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `> connect`
-
-<div align="center">
-
-<a href="https://github.com/lazycelestial"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://lazycelestial.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0b1020&height=100&section=footer" width="100%" alt="Decorative footer"/>
-
-**`while (learning) { keepBuilding(); }`**
-
-<sub>Designed with curiosity • Powered by consistency</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:000000&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
