@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://lazycelestial.github.io/my-portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Rohit+Kumar.;CSE+Student.;C%2B%2B+%26+DSA+Learner.;Web+Developer+in+Progress." alt="Introduction"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=lazycelestial.;cse+student.;c%2B%2B+%26+dsa+learner.;developer." alt="Introduction"/>
   </a>
 </p>
 
@@ -34,24 +34,11 @@ public:
     string interest = "Web Development";
     string mindset = "Learn. Build. Improve.";
 };
-```
-
-- Currently learning **Data Structures & Algorithms in C++**
-- Building projects with **HTML, CSS, and JavaScript**
-- Improving problem-solving and programming fundamentals
-- Exploring software development and UI design
-
----
 
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,sql&theme=dark" alt="Programming languages and web technologies"/>
-</p>
-
-## Tools
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Development tools"/>
 </p>
 
